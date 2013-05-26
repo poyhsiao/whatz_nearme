@@ -1,0 +1,4 @@
+recursive-include whatz_nearme/public *
+include whatz_nearme/public/favicon.ico
+recursive-include whatz_nearme/i18n *
+recursive-include whatz_nearme/templates *
